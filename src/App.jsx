@@ -7,7 +7,7 @@ import { useState } from 'react';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import Cart from './component/Cart/Cart';
 import "./app.css"
-import Fotter from './component/fotter/fotter';
+ // import Fotter from './component/fotter/fotter';
 import Infomation from './component/information/Infomation';
 import SignInSide from './component/loginSesion/anotherLogin';
 import ItemListContainer from './component/ItemListContainer/ItemListContainer';
